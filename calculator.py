@@ -1,4 +1,6 @@
 import math
+
+
 def square_root(a):
     try:
         if a < 0:
